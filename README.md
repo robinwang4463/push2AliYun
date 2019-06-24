@@ -4,7 +4,12 @@ It will push live stream to AliYun CDN automatically by rtmp protocol when it re
 
 You can contact me if you have any question about it.
 
-robin
+
+Contact：
+
+
 QQ: 23024067
+
 QQ群: 154337267
+
 WEB: www.ttstream.com
